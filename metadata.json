@@ -1,0 +1,5 @@
+{
+  "name": "Text Summarizer and Story Creator",
+  "description": "A powerful and easy-to-use tool to summarize text and video transcripts, or create stories from your ideas using the Gemini API.",
+  "requestFramePermissions": []
+}
